@@ -8,13 +8,5 @@ H:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\BarcodeSample1.pdb
 H:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\GenCode128.dll
 H:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.exe
 H:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.pdb
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\BarcodeSample1.exe.config
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.exe
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.pdb
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\BarcodeSample1.exe
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\BarcodeSample1.pdb
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\GenCode128.dll
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.csprojResolveAssemblyReference.cache
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.Form1.resources
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.Properties.Resources.resources
-d:\Work\Barcode\BarcodeSample1\BarcodeSample1\obj\Debug\BarcodeSample1.csproj.GenerateResource.Cache
+h:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\TemplateEngine.Docx.dll
+h:\Work\Barcode\BarcodeSample1\BarcodeSample1\bin\Debug\DocumentFormat.OpenXml.dll
